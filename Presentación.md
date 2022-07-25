@@ -1,13 +1,13 @@
 # Proyecto-Final
 Proyecto Final - Data Science
 
-integrantes:
+Integrantes:
 
-Érica Serrano Martínez
-Federico Dignani
-Franco Vitulo
-Valentin Prina Cerai
-Yanhila Pintos
+* Érica Serrano Martínez
+* Federico Dignani
+* Franco Vitulo
+* Valentin Prina Cerai
+* Yanhila Pintos
 
 Conjunto de datos: www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv 
 
